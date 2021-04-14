@@ -1,0 +1,22 @@
+{
+    "name": "anatoliykim/event-system",
+    "description": "event system",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anatoliy Kim",
+            "email": "anatoliykim@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "anatoliykim/phponto": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:anatoliykim/phponto.git"
+        }
+    ],
+    "minimum-stability": "dev"
+}

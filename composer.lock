@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4cdbdce0f1cc417e8c0903a537392d9e",
+    "packages": [
+        {
+            "name": "anatoliykim/phponto",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/anatoliykim/phponto.git",
+                "reference": "01f8c8642ad61318b60150602c83f2d118996d80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/anatoliykim/phponto/zipball/01f8c8642ad61318b60150602c83f2d118996d80",
+                "reference": "01f8c8642ad61318b60150602c83f2d118996d80",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PHPOnto\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Anatoliy Kim",
+                    "email": "anatoliykim@users.noreply.github.com"
+                }
+            ],
+            "description": "PHP ontology",
+            "support": {
+                "source": "https://github.com/anatoliykim/phponto/tree/master",
+                "issues": "https://github.com/anatoliykim/phponto/issues"
+            },
+            "time": "2021-04-14T18:47:44+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "anatoliykim/phponto": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
